@@ -111,9 +111,6 @@
     ],
     "semanticCommits": true,
     "timezone": "America/Los_Angeles",
-    "schedule": [
-      "after 10pm and before 5am on every weekday"
-    ],
     "rebaseStalePrs": true,
     "prCreation": "immediate",
     "automerge": "minor",
