@@ -112,16 +112,9 @@
     "semanticCommits": true,
     "timezone": "America/Los_Angeles",
     "rebaseStalePrs": true,
-    "prCreation": "immediate",
     "automerge": "minor",
     "labels": [
       "dependencies"
-    ],
-    "assignees": [
-      "@hwillson"
-    ],
-    "reviewers": [
-      "@hwillson"
     ],
     "pathRules": [
       {
